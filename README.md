@@ -3,7 +3,7 @@
     *Projeto*: AAE -> Ajuda Aê (estágiarios)
     *Autora*: Queila Abreu
      
-        ![](logo_final_readme.png)
+        ![](C:/Users/queila.queiroz/Documents/Projeto-AAE/logo_final_readme.png)
 
 1. ## Descrição do Programa ## 
 
