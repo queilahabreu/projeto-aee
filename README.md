@@ -4,7 +4,7 @@
     *Autora*: Queila Abreu
      
         <img src="logo_final_readme.png">
-        ![](C:/Users/queila.queiroz/Documents/Projeto-AAE/logo_final_readme.png)
+        ![teste](C:/Users/queila.queiroz/Documents/Projeto-AAE/logo_final_readme.png)
 
 1. ## Descrição do Programa ## 
 
