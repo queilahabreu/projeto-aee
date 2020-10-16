@@ -1,0 +1,13 @@
+##Cool Rename##
+
+Descrição:
+    Com esse programa você consegue renomear vários arquivos simultâneos substituindo os acentos e espaços. 
+
+Observação:
+    No momento os arquivos que o programa está pegando é com extensão '.pdf', para mudar basta substituir na linha 23 o 'glob("*.pdf")' por qualquer outra extensão -> ('glob("*.ext")').
+
+Modo de usar:
+    1)Crie uma pasta com o nome 'arquivos' no mesmo local que contenha o programa
+    2)Rode o programa processa.php
+        - Abra no navegador web(obs: não esqueça de utilizar um servidor web)
+

@@ -1,0 +1,33 @@
+.copy-left { display: inline-block; text-align: right; margin: 0px; -moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: “FlipH”; }
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+ }
+
+ .efeito{
+     background-color: rgba(0, 0, 0, 0.5);
+     padding: 30px 0 30px 0;
+ }
+
+
+ /*Estilização input*/
+ input[type='file'] {
+    display: none
+  }
+  
+  .input-wrapper label {
+    background-color: #0069D9;
+    border-radius: 5px;
+    color: #fff;
+    margin: 10px;
+    padding: 6px 20px
+  }
+  
+  .input-wrapper label:hover {
+    background-color: #0069D9;
+  }
