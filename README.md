@@ -3,7 +3,7 @@
     *Projeto*: AAE -> Ajuda Aê (estágiarios)
     *Autora*: Queila Abreu
      
-        ![logo do projeto](imagens/logo_final.png)
+        ![logo_do_projeto](/imagens/logo_final.png)
 
 1. ## Descrição do Programa ## 
 
