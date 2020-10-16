@@ -8,6 +8,8 @@
 
 1. ## Descrição do Programa ## 
 
+    ![teste](../logo_final_readme.png)
+
     <p>Site criado para ajudar em tarefas, que geralmente são solicitadas para estagiários, que levariam o dia todo para serem feitas.</p> 
 
 2. ## Operação do Programa ## 
