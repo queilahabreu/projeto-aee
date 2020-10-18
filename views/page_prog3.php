@@ -32,7 +32,7 @@
             if(isset($_SESSION['total']) && isset($_SESSION['rodando']) &&  $_SESSION['rodando'] == 1){?>
             A quantidade de valores repetidos é: <?php echo $_SESSION['total']; ?>
             <br>
-            <a href="control/valores_duplicados.txt" download>Clique aqui para fazer o download</a>
+            <a href="arquivo_texto/valores_duplicados.txt" download>Clique aqui para fazer o download</a>
             
             <?php }
             $_SESSION['rodando'] = 0;
