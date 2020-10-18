@@ -36,12 +36,16 @@ foreach($duplicados as $item){
 
 ##ARMAZENANDO DUPLICADAS EM ARQUIVO DE TEXTO 
 
-$valores = fopen('control/valores_duplicados.txt','w');
+$valores = fopen('valores_duplicados.txt','w');
 // escreve o conteúdo do array no arquivo .txt
+
+
+
 
 foreach($duplicados as $value){
     fwrite($valores, $value);
     fwrite($valores, "\r\n");
+    
 }
 
 fclose($valores);
