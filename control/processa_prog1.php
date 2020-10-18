@@ -43,9 +43,16 @@ for($x=0; $x < $i; $x++){
 
 }
 
+if($duplicadas <= 2){
+	$total_duplicadas = $duplicadas;	
+}
+else{
+	
+	$total_duplicadas = $duplicadas/2; 
 
-$total_duplicadas = $duplicadas/2; 
-
+}
+/*var_dump($total_duplicadas);
+die();*/
 $_SESSION['total'] = $total_duplicadas;
 $_SESSION['rodando'] = 1;
 

@@ -20,14 +20,14 @@
                     <span id='file-name'></span>
                 </div>
                     
-                <button type="submit" class="btn btn-primary" style="margin-top:10px; margin-left: 10px;">Enviar</button>
+                <button type="submit" class="btn btn-primary" style="margin-top:10px; margin-left: 10px;  margin-bottom: 22px;">Enviar</button>
                     
             </form> 
         </div>
     </div>
    
 
-    <p style="margin-top: 10px;">
+    <p style="margin-top: 10px; margin-bottom: 50px;">
         <?php 
            
             if(isset($_SESSION['total']) && isset($_SESSION['rodando']) &&  $_SESSION['rodando'] == 1){?>
